@@ -1,0 +1,41 @@
+.cart {
+    color: white;
+    background: #c63928;
+    border-color: transparent;
+    padding: 10px 50px; 
+    margin-right: 20px;
+}
+
+.Start {
+    color: #2d62fa;
+    background:  #fcd835;
+    border: 4px #2a61fb;
+    margin-right: 20px;
+    border-style: solid;
+    border-width: 3px;
+    padding: 10px 30px;
+}
+
+.Login{
+    color: #fdfefe;
+    background: #78d1ab;
+    padding: 10px 30px;
+    border-round: 4px
+
+}
+.Sign{
+    color:#684aea;
+    background: #ffffff;
+    border-radius: 4px #6749ea;
+    padding: 10px 30px;
+    margin-right: 20px;
+}
+.Subscribe{
+    color:white
+    background: #f6a832;
+    border: 2px solid #f6a832;
+    padding: 10px 50px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
